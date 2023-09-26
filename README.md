@@ -1,5 +1,5 @@
 # React + Vite
-Este mini juego se ha realizado usando React mas
+Este mini juego se ha realizado usando React y la herramienta de construcción y desarrollo front-end Vite.
 
 
 # Imágenes del mini juego
